@@ -1,5 +1,6 @@
-# Complex Answer Generation For Conversational Search Systems. 
+# Constructing Dataset from TREC CAR
 
-Code for [Does Structure Matter? Leveraging Data-to-Text Generation for Answering Complex Information Needs]()
+Must download TREC CAR dataset from : http://trec-car.cs.unh.edu/ 
+Data used: benchmarkY1test and Large-scale training data
 
-Most of this code is based on [Huggingface](https://huggingface.co/) 
+Also the data construction uses [TREC CAR TOOLS](https://github.com/TREMA-UNH/trec-car-tools) (must be cloned/copied in data-contruction folder) 
