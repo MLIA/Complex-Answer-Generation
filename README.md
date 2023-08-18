@@ -6,7 +6,7 @@ Most of this code is based on [Huggingface](https://huggingface.co/)
 
 ## Datasets
 
-TREC CAR dataset is used: benchmarkY1test for testing and Large-scale training data for training. Download from : http://trec-car.cs.unh.edu/ 
+TREC CAR dataset is used: benchmarkY1test for testing and Large-scale training data for training. Download from : [http://trec-car.cs.unh.edu/ ](http://trec-car.cs.unh.edu/datareleases/index.html)
 
 Various adaptations are created using data_construction/make_data.py file. The data construction uses [TREC CAR TOOLS](https://github.com/TREMA-UNH/trec-car-tools) (must be cloned/copied in data-contruction folder) 
 
