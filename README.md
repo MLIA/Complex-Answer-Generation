@@ -6,7 +6,7 @@ Transformers implementation is based on [Huggingface](https://huggingface.co/)
 
 ## Datasets
 
-TREC CAR dataset is used: benchmarkY1test for testing and Large-scale training data for training. Download from : http://trec-car.cs.unh.edu/datareleases/index.html#:~:text=July%2026%2C%202018).-,benchmarkY1train,-benchmarkY1%2Dtrain.v2.0
+TREC CAR dataset is used: benchmarkY1test for testing and Large-scale training data for training. Download from : <a href="http://trec-car.cs.unh.edu/datareleases/index.html#:~:text=extra%2Dlarge%20training%20set"> here </a>
 
 Various adaptations are created using data_construction/make_data.py file. The data construction uses [TREC CAR TOOLS](https://github.com/TREMA-UNH/trec-car-tools) (must be cloned/copied in data-contruction folder) 
 
